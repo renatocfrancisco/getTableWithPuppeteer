@@ -1,0 +1,23 @@
+{
+  "name": "gettablewithpuppeteer",
+  "version": "1.0.0",
+  "description": "How to get an specific html table with specific columns/values with Puppeteer and JavaScript and converted into an .csv?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renatocfrancisco/getTableWithPuppeteer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renatocfrancisco/getTableWithPuppeteer/issues"
+  },
+  "homepage": "https://github.com/renatocfrancisco/getTableWithPuppeteer#readme",
+  "dependencies": {
+    "puppeteer": "^14.4.0"
+  }
+}
